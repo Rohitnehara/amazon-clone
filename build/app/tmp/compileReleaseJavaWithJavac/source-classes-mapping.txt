@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+aadhiarun/app/amazon_clone/BuildConfig.java
+ aadhiarun.app.amazon_clone.BuildConfig
